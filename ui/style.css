@@ -20,3 +20,15 @@ body {
     height: 200px;
 }
 
+.container{
+        
+    max-width: 900px;
+    margin: 0 auto;
+    color: #dc00ff;
+    font-family: times new roman;
+    padding-top: 30px;
+    page-break-after:left;
+    font-variant: small-caps;
+    font-size: large;
+    font-weight: 400;
+        }
