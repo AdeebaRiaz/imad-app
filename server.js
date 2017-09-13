@@ -21,6 +21,5 @@ var port=8080;
 app.listen(8080,function(){
 console.log('Loaded!');
     
-}
-)
+});
 
